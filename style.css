@@ -1,0 +1,15 @@
+/*
+ Theme Name:   Pinboard Child
+ Description:  Pinboard Child Theme
+ Author:       Matt Harris
+ Author URI:   http://hattmarris.com
+ Template:     pinboard
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Text Domain:  pinboard-child
+*/
+
+form #email {
+	width: auto;
+}
