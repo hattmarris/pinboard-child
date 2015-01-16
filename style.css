@@ -10,6 +10,12 @@
  Text Domain:  pinboard-child
 */
 
+body,
+#site-title,
+.entry-title {
+	font-family: AR JULIAN; 
+}
+
 form #email {
 	width: auto;
 }
