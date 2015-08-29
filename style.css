@@ -27,3 +27,7 @@ form #email {
 	margin:30px 3.4% 0 0;
 	overflow:hidden;
 }
+
+header.entry-header {
+    min-height: 58px;
+}
