@@ -41,3 +41,7 @@ div#sub-title {
     height: 25px;
     line-height: 0px;
 }
+
+div.entry {
+   min-height: 255px; 
+}
