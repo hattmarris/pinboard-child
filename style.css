@@ -31,3 +31,13 @@ form #email {
 header.entry-header {
     min-height: 58px;
 }
+
+#site-title {
+    line-height: 100px;
+}
+
+div#sub-title {
+    font-size: 20px;
+    height: 25px;
+    line-height: 0px;
+}
