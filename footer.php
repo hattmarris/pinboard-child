@@ -27,6 +27,7 @@
 						<?php endif; ?>
 					</p>
 				<?php endif; ?>
+				<div id="login"><?php wp_loginout(); ?></div>
 				<div class="clear"></div>
 			</div><!-- #copyright -->
 		</div><!-- #footer -->
